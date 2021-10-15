@@ -47,7 +47,9 @@ This contract will mint the tokens automatically and distribute them to buyers i
 
     ![ganache](Outputs/ganache_wallet_addresses.png) </br>
 
-    The Puppercoin tokens will reflect in wallet only once the crowdsale is completed.
+    ![token](Outputs/Import_token_sucess.png)
+
+    The Puppercoin tokens will reflect in wallet only once the crowdsale is completed ie 24 weeks
 
 4. Contract Deployment on to Ropsten Network
     ![Ropsten](Outputs/Ropsten_deployment.png) 
