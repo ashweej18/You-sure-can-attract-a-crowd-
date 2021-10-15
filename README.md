@@ -39,6 +39,8 @@ This contract will mint the tokens automatically and distribute them to buyers i
 
     ![Metamask](Outputs/metamask_contract_deployment.png) </br>
 
+    Buying Tokens for address  `0xA02Ab394a19E79bB33DD13AD5854d1a69C9E7317`
+
     ![SendToken1](Outputs/send_token_1.png) </br>
 
     ![SendToken2](Outputs/send_token_2.png) </br>
@@ -47,9 +49,11 @@ This contract will mint the tokens automatically and distribute them to buyers i
 
     ![ganache](Outputs/ganache_wallet_addresses.png) </br>
 
-    ![token](Outputs/Import_token_sucess.png)
+    ![token](Outputs/Import_token_sucess.png) </br>
 
-    The Puppercoin tokens will reflect in wallet only once the crowdsale is completed ie 24 weeks
+    Sending token back to address `0x61C68CF13cE6799011034240297AF75af1224B11`  </br>
+
+    ![token](Outputs/Send_tokens.png)
 
 4. Contract Deployment on to Ropsten Network
     ![Ropsten](Outputs/Ropsten_deployment.png) 
