@@ -30,7 +30,9 @@ This contract will mint the tokens automatically and distribute them to buyers i
     ![Pupper Coin](Outputs/PupperCoin.png)
 2. CrowdSale
     ![Pupper Coin](Outputs/CrowdSale.png)
-3. Testing the contract
+3. Testing the contract </br>
+    For testing the contract, the crowdsale duration was set to 3 minutes, in the contract that was deployed to Ropsten network the crowdsale close is set to 24 weeks.
+
     ![Test 1](Outputs/contract_deployment_1.png) </br>
 
     ![Test 2](Outputs/contract_deployment_2.png) </br>
