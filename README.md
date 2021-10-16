@@ -27,17 +27,20 @@ This contract will mint the tokens automatically and distribute them to buyers i
 ---
 ## **Outputs**
 1. PupperCoin.sol
-    ![PupperCoin](Outputs/PupperCoin.png)
+    ![PupperCoin](Output/PupperCoin.png)
 2. CrowdSale.sol
-    ![CrowdSale](Outputs/CrowdSale.png)
+    ![CrowdSale](Output/CrowdSale.png)
 3. Testing the contract </br>
     For testing the contract, the crowdsale duration was set to 3 minutes, in the contract that was deployed to Ropsten network the crowdsale close is set to 24 weeks.
-    * Compiling the Crowdsale.sol
+    * Compiling the Crowdsale.sol </br>
         ![Test 1](Output/compile_crowdsale.png) </br>
-    * Contract deployment on local blockchain 
+
+    * Contract deployment on local blockchain </br>
+
         ![deploy1](Output/Contract_deployment_1.png) </br>
 
-        ![deploy2](Output/contract_deployment_2.png) </br>
+
+        ![deploy2](Output/Contract_deployment_2.png) </br>
 
         `Name of Token` : `PupperCoin` </br>
         `Symbol` : `PPC` </br>
